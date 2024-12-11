@@ -1,6 +1,7 @@
 # Camunda Platform 7 - The open source BPMN platform
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.camunda.bpm/camunda-parent/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.camunda.bpm/camunda-parent) [![camunda manual latest](https://img.shields.io/badge/manual-latest-brown.svg)](https://docs.camunda.org/manual/latest/) [![License](https://img.shields.io/github/license/camunda/camunda-bpm-platform?color=blue&logo=apache)](https://github.com/camunda/camunda-bpm-platform/blob/master/LICENSE) [![Forum](https://img.shields.io/badge/forum-camunda-green)](https://forum.camunda.org/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKeshavGeek%2Fcamunda-bpm-platform.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKeshavGeek%2Fcamunda-bpm-platform?ref=badge_shield)
 
 Camunda Platform 7 is a flexible framework for workflow and process automation. Its core is a native BPMN 2.0 process engine that runs inside the Java Virtual Machine. It can be embedded inside any Java application and any Runtime Container. It integrates with Java EE 6 and is a perfect match for the Spring Framework. On top of the process engine, you can choose from a stack of tools for human workflow management, operations and monitoring.
 
@@ -65,3 +66,6 @@ To run the tests in this repository, please see our [testing tips and tricks](TE
 The source files in this repository are made available under the [Apache License Version 2.0](./LICENSE).
 
 Camunda Platform 7 uses and includes third-party dependencies published under various licenses. By downloading and using Camunda Platform 7 artifacts, you agree to their terms and conditions. Refer to https://docs.camunda.org/manual/latest/introduction/third-party-libraries/ for an overview of third-party libraries and particularly important third-party licenses we want to make you aware of.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKeshavGeek%2Fcamunda-bpm-platform.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKeshavGeek%2Fcamunda-bpm-platform?ref=badge_large)
